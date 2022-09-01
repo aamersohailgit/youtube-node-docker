@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "deploy node.js to aws ecs docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamersohailgit/youtube-node-docker.git"
+  },
+  "author": "progra@mer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamersohailgit/youtube-node-docker/issues"
+  },
+  "homepage": "https://github.com/aamersohailgit/youtube-node-docker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.19"
+  }
+}
